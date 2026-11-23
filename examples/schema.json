@@ -1,0 +1,6 @@
+{
+  "request_id": "Service request identifier",
+  "contact": "Contact name",
+  "due_date": "Requested due date",
+  "budget": "Budget if stated"
+}
